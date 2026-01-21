@@ -4,4 +4,4 @@
 
 
 ### Check it out
-- 🗣️🗨️ [Arguely.AI: Simulate a debate with AI-impersonated public people](https://arguely.ai/?utm_source=gh)
+- 🗣️🗨️ [Arguely.AI](https://arguely.ai/?utm_source=gh) Simulate a debate with AI-impersonated public people
